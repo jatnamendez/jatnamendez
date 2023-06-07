@@ -26,7 +26,21 @@ Welcome to my GitHub profile.
 
  <a href="https://www.linkedin.com/in/jatna-mendez-66155a153" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
- <a href="mailto:jatna.deilin@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a><!--
+ <a href="mailto:jatna.deilin@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+ 
+ 
+ ## STATS
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatnamendez&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatnamendez&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
+ 
+ 
+ 
+ 
+ <!--
 **jatnamendez/jatnamendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
