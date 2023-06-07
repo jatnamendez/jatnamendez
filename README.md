@@ -1,7 +1,5 @@
 ### Hi there 👋  [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jatnamendez/jatnamendez/blob/main/README.md)
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DanielDW23/DanielDW23/blob/main/README.en.md)
-
 
 ![Jatna](https://github.com/jatnamendez/jatnamendez/assets/126780466/4d512739-cea1-476d-b999-b080611d9612)
 
