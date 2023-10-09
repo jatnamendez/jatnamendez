@@ -20,7 +20,6 @@ Welcome to my GitHub profile.
  <p align="center">
  <img src= "https://img.shields.io/badge/-FIGMA-9CF?style=for-the-badge&logo=figma&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/-GITHUB-lightgrey?style=for-the-badge&logo=github&logoColor=black"></img>
- 
 
  </p>
  
