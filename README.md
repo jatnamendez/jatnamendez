@@ -20,9 +20,6 @@ Welcome to my GitHub profile.
  <p align="center">
  <img src= "https://img.shields.io/badge/-FIGMA-9CF?style=for-the-badge&logo=figma&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/-GITHUB-lightgrey?style=for-the-badge&logo=github&logoColor=black"></img>
-
- <img src= "https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB-700x190.png"></img>
- <img src= "https://img.shields.io/badge/-GITHUB-lightgrey?style=for-the-badge&logo=github&logoColor=black"></img>
  
 
  </p>
